@@ -116,6 +116,13 @@ for ( i = 0; i < 10; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/constant-function`][@stdlib/utils/constant-function]: constant function.
+-   [`@stdlib/utils/identity-function`][@stdlib/utils/identity-function]: identity function.
+
 </section>
 
 <!-- /.related -->
@@ -176,6 +183,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-argument-function/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/constant-function]: https://github.com/stdlib-js/utils-constant-function
+
+[@stdlib/utils/identity-function]: https://github.com/stdlib-js/utils-identity-function
+
+<!-- </related-links> -->
 
 </section>
 
