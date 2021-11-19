@@ -20,7 +20,7 @@ limitations under the License.
 
 # Argument Function
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create an argument function.
 
@@ -120,8 +120,8 @@ for ( i = 0; i < 10; i++ ) {
 
 ## See Also
 
--   [`@stdlib/utils/constant-function`][@stdlib/utils/constant-function]: constant function.
--   [`@stdlib/utils/identity-function`][@stdlib/utils/identity-function]: identity function.
+-   <span class="package-name">[`@stdlib/utils/constant-function`][@stdlib/utils/constant-function]</span><span class="delimiter">: </span><span class="description">constant function.</span>
+-   <span class="package-name">[`@stdlib/utils/identity-function`][@stdlib/utils/identity-function]</span><span class="delimiter">: </span><span class="description">identity function.</span>
 
 </section>
 
@@ -172,8 +172,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-argument-function/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-argument-function?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-argument-function.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-argument-function/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
