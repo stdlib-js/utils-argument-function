@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-argument-function/tags). For example,
+
+```javascript
 import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.1.0-deno/mod.js';
 ```
 
@@ -98,7 +103,7 @@ var v = argn( 1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.1.0-deno/mod.js';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@deno/mod.js';
 
 var argn;
 var v;
