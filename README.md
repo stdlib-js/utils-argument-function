@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@esm/index.mjs';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.1-esm/index.mjs';
 ```
 
 #### argumentFunction( idx )
@@ -103,7 +103,7 @@ var v = argn( 1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@esm/index.mjs';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.1-esm/index.mjs';
 
 var argn;
 var v;
