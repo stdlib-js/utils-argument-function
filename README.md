@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@deno/mod.js';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.1-deno/mod.js';
 ```
 
 #### argumentFunction( idx )
@@ -98,7 +98,7 @@ var v = argn( 1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@deno/mod.js';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.1-deno/mod.js';
 
 var argn;
 var v;
