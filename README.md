@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-argument-function/tags). For example,
+
+```javascript
 import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.2-esm/index.mjs';
 ```
 
@@ -103,7 +108,7 @@ var v = argn( 1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@v0.2.2-esm/index.mjs';
+import argumentFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-argument-function@esm/index.mjs';
 
 var argn;
 var v;
