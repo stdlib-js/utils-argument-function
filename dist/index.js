@@ -1,5 +1,5 @@
-"use strict";var n=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var i=n(function(g,t){
-var a=require('@stdlib/assert-is-nonnegative-integer/dist').isPrimitive,u=require('@stdlib/error-tools-fmtprodmsg/dist');function s(e){if(!a(e))throw new TypeError(u('1Qn2K',e));return r;function r(){return arguments[e]}}t.exports=s
-});var o=i();module.exports=o;
+"use strict";var a=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(n){throw (r=0, n)}};};var i=a(function(m,t){
+var u=require('@stdlib/assert-is-nonnegative-integer/dist').isPrimitive,s=require('@stdlib/error-tools-fmtprodmsg/dist');function o(e){if(!u(e))throw new TypeError(s('1Qn2K',e));return r;function r(){return arguments[e]}}t.exports=o
+});var v=i();module.exports=v;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
